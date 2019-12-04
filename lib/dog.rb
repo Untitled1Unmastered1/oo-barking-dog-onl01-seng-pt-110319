@@ -13,7 +13,7 @@ class Dog
   end 
 end 
 
-
+Dog.bark 
 
  
     
